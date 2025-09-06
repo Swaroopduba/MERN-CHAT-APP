@@ -13,6 +13,8 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
+Below is the Deployed app link,Feel free to check it out.
+
 [https://talk-a-tive-d9ff.onrender.com/](https://talk-a-tive-d9ff.onrender.com/)
 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
