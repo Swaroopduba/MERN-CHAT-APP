@@ -59,7 +59,7 @@ Start the Client
 ### 5)Create Group Chats
 ### 6)Notifications 
 ### 7)Add or Remove users from group
-### *)View Other user Profile
+### 8)View Other user Profile
 
 ## Made By
 
