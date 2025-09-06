@@ -18,11 +18,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
-```
 
 Go to the project directory
 
@@ -57,17 +52,17 @@ Start the Client
   
 # Features
 
-### Authenticaton
-### Real Time Chatting with Typing indicators
-### One to One chat
-### Search Users
-### Create Group Chats
-### Notifications 
-### Add or Remove users from group
-### View Other user Profile
+### 1)Authenticaton
+### 2)Real Time Chatting with Typing indicators
+### 3)One to One chat
+### 4)Search Users
+### 5)Create Group Chats
+### 6)Notifications 
+### 7)Add or Remove users from group
+### *)View Other user Profile
 
 ## Made By
 
-- 
+- Swaroop Duba
 
   
