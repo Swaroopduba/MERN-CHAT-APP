@@ -12,9 +12,9 @@ dotenv.config();
 connectDB();
 app.use(express.json());
 
-app.get('/',(req,res)=>{
-    res.send("API is Running sucessfully god damn");
-});
+// app.get('/',(req,res)=>{
+//     res.send("API is Running sucessfully god damn");
+// });
 
 app.use('/api/user',userRoutes);
 app.use('/api/chat',chatRoutes);
