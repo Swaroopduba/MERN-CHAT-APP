@@ -17,7 +17,7 @@ Below is the Deployed app link,Feel free to check it out.
 
 [https://talk-a-tive-d9ff.onrender.com/](https://talk-a-tive-d9ff.onrender.com/)
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/Swaroopduba/MERN-CHAT-APP/blob/main/group%20%2B%20notif.PNG)
 ## Run Locally
 
 
